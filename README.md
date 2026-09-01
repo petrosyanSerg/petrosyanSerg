@@ -109,14 +109,6 @@ A JavaScript and CSS-based clock application.
 
 <br>
 
-## GitHub Activity
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=petrosyanSerg&show_icons=true&hide_title=true&hide_border=true&count_private=false&theme=transparent&text_color=888888&icon_color=888888&title_color=888888" alt="GitHub stats" height="150" />
-</div>
-
-<br>
-
 ## Currently
 
 Building scalable web applications and refining frontend architecture practices with React and TypeScript.
